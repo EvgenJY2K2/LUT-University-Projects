@@ -3,4 +3,4 @@ On this page you will find my projects for LUT University, at Technology and Eng
 
 ### Course projects:
 
-* [Intermediate Expressions](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Intermediate%20Expressions.md)  
+* [Distributed inverse matrix calculator](https://github.com/EvgenJY2K2/LUT-University-Projects/blob/main/Matrix%20calculator.md)  
