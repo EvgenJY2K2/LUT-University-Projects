@@ -1,0 +1,8 @@
+7 car brands and 30 cars were identified:
+Kia: 6 cars
+Mazda: 5 cars
+Mercedes-Benz: 3 cars
+Renault: 3 cars
+Seat: 8 cars
+Tesla: 3 cars
+Volkswagen: 2 cars
