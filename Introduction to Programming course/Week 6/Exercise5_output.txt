@@ -1,0 +1,4 @@
+sum 2 + 8 = 10
+Division 2 / 8 = 0.25
+Division 1 / 3 = 0.33
+sum 2 + 2 = 4

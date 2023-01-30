@@ -1,0 +1,3 @@
+The smallest number of steps was 1723 steps.
+The largest number of steps was 21662 steps.
+There were 3451029 steps in total.

@@ -1,0 +1,10 @@
+vehicle,color,time
+bicycle,yellow,00:30
+car,silver,08:05
+van,white,09:15
+bicycle,blue,10:05
+car,black,10:07
+van,green,11:58
+bicycle,red,13:18
+van,white,14:44
+car,red,18:20

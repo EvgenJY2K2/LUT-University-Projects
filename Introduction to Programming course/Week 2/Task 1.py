@@ -1,0 +1,5 @@
+n = input("Enter your name: ")
+i = int(input("Enter an integer: "))
+d = float(input("Enter a decimal number: "))
+print("Decimal", d,"to power", i, "is", d**i)
+print("Thank you for using the program %s!"%n)
